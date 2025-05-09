@@ -7,6 +7,8 @@ I would place male pins on bottom side in J2/J5/J4 and solder from top. You can 
 
 J2/J6 are connected. J4/J7 are connected. J5/J3 are connected.
 
+![In The Wild](InTheWild.png)
+
 ### Female Mictor 38 Pin Connector
 TE Connectivity AMP Connectors [5767061-1](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5767061-1/2195045)
 
