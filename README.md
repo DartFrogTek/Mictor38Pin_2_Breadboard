@@ -9,7 +9,12 @@ https://www.pcbway.com/project/shareproject/Mictor_38Pin_Logic_Analyzer_Probe_Br
 ![In The Wild](InTheWild.png)
 
 ### Female Mictor 38 Pin Connector
-TE Connectivity AMP Connectors [5767061-1](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5767061-1/2195045)
+- TE Connectivity AMP Connectors [5767061-1](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5767061-1/2195045)
+- TE Connectivity AMP Connectors [2-5767004-2](https://www.futureelectronics.com/p/interconnect--dual-in-line-package-sockets/2-5767004-2-te-connectivity-7561798)
+  
+Both work. (5767061-1) and (2-5767004-2) are identical except:
+  - (2-5767004-2)'s 5 through-hole ground pins are slightly under flush with the surface of a 1.6mm FR4 board.
+  - (5767061-1)'s 5 through-hole ground pins protrude above by 2.00mm of the surface of a 1.6mm FR4 board.
 
 ### Renders
 ![Render Front](Render_Front.png)
